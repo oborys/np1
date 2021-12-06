@@ -13,8 +13,7 @@ In this work you will use both the Southbound APIs (CLI, SNMP ...) and the North
 
 Link to a video review of some work:
 
-- part 1: https://goo.gl/KZNoYE 
-- part 2: https://goo.gl/2YSRro 
+- https://www.youtube.com/watch?v=1eZmoon0-pM
 
 For testing some additional features you are able to book sandbox with some equipment.
 
